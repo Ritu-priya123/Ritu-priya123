@@ -1,144 +1,83 @@
-<h1 align="center">🌸 Hi there! 👋 I'm Ritu Priya 🎀</h1>
-<h3 align="center">💖 BCA Student | C & C++ Developer | Tech Enthusiast 💻</h3>
+<!-- HEADER BANNER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:203a43&height=200&section=header&text=Ritu%20Priya&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
+</p>
+
+<h1 align="center">Hi 👋, I'm Ritu Priya</h1>
+<h3 align="center">BCA Student | C & C++ Developer | Tech Enthusiast</h3>
+
+---
+
+## 👩‍💻 About Me
+
+- 🎓 BCA Student (2nd Semester)  
+- 💡 Interested in Programming & Problem Solving  
+- ⚙️ Currently learning C, C++ and Data Structures  
+- 🎯 Goal: Become a Software Developer  
+- 🚀 Focused on building strong fundamentals  
+
+---
+
+## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=FF69B4&center=true&vCenter=true&lines=Dream+%E2%9C%A8+Code+%F0%9F%92%BB+Achieve+%F0%9F%92%96+Repeat;Welcome+to+my+GitHub+Profile+%F0%9F%8C%B8" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,html,css,github,vscode&theme=dark" />
 </p>
 
 ---
 
-## 💖 About Me + 🎀 Tech Stack
-
-<table>
-<tr>
-<td width="50%">
-
-### 🌸 About Me  
-🎓 BCA Student (2nd Semester)  
-💻 Passionate about coding  
-🌱 Learning C, C++ & DSA  
-🎯 Goal: Software Developer  
-💗 Love: Pink, Cats & Coffee ☕  
-
-</td>
-
-<td width="50%">
-
-### 🎀 Tech Stack  
-<p align="center">
-<img src="https://skillicons.dev/icons?i=c,cpp,html,css,github,vscode&theme=light"/>
-</p>
-
-</td>
-</tr>
-</table>
-
----
-
-## 💕 GitHub Stats
-
-<table>
-<tr>
-<td>
-<img src="https://github-readme-stats.vercel.app/api?username=Ritu-priya123&show_icons=true&theme=rose_pine&title_color=FF69B4&icon_color=FF69B4"/>
-</td>
-
-<td>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ritu-priya123&layout=compact&theme=rose_pine&title_color=FF69B4"/>
-</td>
-</tr>
-</table>
-
----
-
-## 🌸 Streak + Activity
-
-<table>
-<tr>
-<td>
-<img src="https://streak-stats.demolab.com/?user=Ritu-priya123&theme=rose-pine&ring=FF69B4&fire=FF69B4"/>
-</td>
-
-<td>
-
-<!-- 💖 PINK AESTHETIC GRAPH -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ritu-priya123&bg_color=2b0f1f&color=ff66b2&line=ff66b2&point=ffc0cb&area=true&hide_border=true&radius=16"/>
-
-</td>
-</tr>
-</table>
-
----
-
-## 🎀 Cute Dev Corner
+## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://img.shields.io/badge/Coding-Pink%20Vibes-FF69B4?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Learning-DSA-FFC0CB?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Mood-Coding💻-FFB6C1?style=for-the-badge"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Ritu-priya123&show_icons=true&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ritu-priya123&layout=compact&theme=tokyonight" height="180"/>
 </p>
 
 ---
 
-## 🌷 Featured Projects
-
-<table>
-<tr>
-<td>
-
-### 🌸 Student Management System  
-💻 C++ Project  
-✨ Manage student records  
-
-</td>
-
-<td>
-
-### 🎀 Calculator in C  
-🧮 Basic calculator  
-💖 Simple & useful  
-
-</td>
-
-<td>
-
-### 🌺 To-Do List  
-📋 Task manager  
-🌸 HTML, CSS, JS  
-
-</td>
-</tr>
-</table>
-
----
-
-## 💌 Connect With Me
+## 📈 Contribution Activity
 
 <p align="center">
-<a href="https://github.com/Ritu-priya123">
-<img src="https://img.shields.io/badge/GitHub-FF69B4?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ritu-priya123&theme=react-dark&hide_border=true" />
 </p>
 
 ---
 
-## 💖 Quote
+## 🔥 Streak Stats
 
 <p align="center">
-✨ "The best way to predict the future is to create it." ✨
+  <img src="https://streak-stats.demolab.com/?user=Ritu-priya123&theme=dark" />
 </p>
 
 ---
 
-## 🐍 Contribution Snake
+## 🧠 Projects
+
+- 📌 Student Management System (C++)  
+- 📌 Calculator Application (C)  
+- 📌 To-Do List Web App (HTML/CSS/JS)  
+
+---
+
+## 📬 Connect With Me
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/Ritu-priya123/Ritu-priya123/output/github-contribution-grid-snake.svg"/>
+  <a href="https://github.com/Ritu-priya123">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+  </a>
 </p>
 
 ---
 
+## 💬 Quote
+
 <p align="center">
-💗 Thanks for visiting 💗 <br>
-🌸 Keep Coding & Keep Growing 🌸
+“Consistency is more important than perfection.”
+</p>
+
+---
+
+<!-- FOOTER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:203a43,100:0f2027&height=120&section=footer"/>
 </p>
