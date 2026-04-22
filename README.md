@@ -60,7 +60,10 @@
 </td>
 
 <td>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ritu-priya123&theme=github-compact&color=FF69B4&line=FF69B4&point=FFB6C1"/>
+
+<!-- 💖 PINK AESTHETIC GRAPH -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ritu-priya123&bg_color=2b0f1f&color=ff66b2&line=ff66b2&point=ffc0cb&area=true&hide_border=true&radius=16"/>
+
 </td>
 </tr>
 </table>
@@ -136,6 +139,6 @@
 ---
 
 <p align="center">
-💗 Thanks for visiting 💗  
+💗 Thanks for visiting 💗 <br>
 🌸 Keep Coding & Keep Growing 🌸
 </p>
